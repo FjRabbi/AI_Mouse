@@ -1,3 +1,6 @@
+
+print("This is a practice project through Jahankar Vai from Programming Hero")
+
 import cv2
 import mediapipe as mp
 import pyautogui
