@@ -32,6 +32,6 @@ while True:
                     if abs(index_y-thumb_y)<20:
                         pyautogui.click()
                         pyautogui.sleep(1)
-                        print('click')
+                        print('clicked')
     cv2.imshow('AI Mouse', frame)
     cv2.waitKey(1)
